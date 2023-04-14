@@ -18,3 +18,21 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+
+.img_one_card {
+ height: 150px;
+ width: auto;
+} 
+
+
+.div_list {
+    display: flex;
+    align-items: center;
+}
+
+.img_list {
+    height: 50px;
+    width: auto;
+    border: 1px solid grey;
+}
